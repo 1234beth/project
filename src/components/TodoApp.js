@@ -2,7 +2,10 @@ import React from 'react'
 
 function TodoApp() {
   return (
-    <div>TodoApp</div>
+    <div>
+      <h3>todolist</h3>
+      <button className="btn-btn primary">create task</button>
+    </div>
   )
 }
 
